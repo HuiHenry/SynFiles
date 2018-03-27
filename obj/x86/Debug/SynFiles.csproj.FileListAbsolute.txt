@@ -1,0 +1,8 @@
+c:\users\youke\documents\visual studio 2010\Projects\SynFiles\SynFiles\bin\Debug\SynFiles.exe
+c:\users\youke\documents\visual studio 2010\Projects\SynFiles\SynFiles\bin\Debug\SynFiles.pdb
+c:\users\youke\documents\visual studio 2010\Projects\SynFiles\SynFiles\obj\x86\Debug\SynFiles.Form1.resources
+c:\users\youke\documents\visual studio 2010\Projects\SynFiles\SynFiles\obj\x86\Debug\SynFiles.Properties.Resources.resources
+c:\users\youke\documents\visual studio 2010\Projects\SynFiles\SynFiles\obj\x86\Debug\SynFiles.csproj.GenerateResource.Cache
+c:\users\youke\documents\visual studio 2010\Projects\SynFiles\SynFiles\obj\x86\Debug\SynFiles.exe
+c:\users\youke\documents\visual studio 2010\Projects\SynFiles\SynFiles\obj\x86\Debug\SynFiles.pdb
+C:\Users\YouKe\documents\visual studio 2010\Projects\SynFiles\SynFiles\obj\x86\Debug\SynFiles.csprojResolveAssemblyReference.cache
